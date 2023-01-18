@@ -5,3 +5,8 @@ Vous trouverez dans le répertoire Keille fichier Keil utilisé pour implémente
 Vous trouverez dans le répertoire Rapport notre Rapport.
 
 Nous vous remercions et vous souhaitons une agréable lecture.
+
+Remarque:
+
+Pour le fonctionnement des modèles Simulink, il faut d'abord "run"le fichier matlab "correcteur.m". 
+En effet, dans les simulink, on récupère des variables du workspace, mais celui-ci est inexistant si on n'a pas fait tourner le programme matlab avant. 
